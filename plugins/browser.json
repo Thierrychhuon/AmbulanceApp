@@ -1,0 +1,43 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "fr.chhuon.ambulance"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "fr.chhuon.ambulance"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "fr.chhuon.ambulance"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "fr.chhuon.ambulance"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "fr.chhuon.ambulance"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "fr.chhuon.ambulance"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "fr.chhuon.ambulance"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "fr.chhuon.ambulance"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "fr.chhuon.ambulance"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "fr.chhuon.ambulance"
+        }
+    }
+}
